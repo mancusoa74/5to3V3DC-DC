@@ -1,75 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xml:space="preserve"
-   enable-background="new 0 0 30.24 30.24"
-   viewBox="0 0 6.9908114 22.082348"
-   height="22.082348"
-   width="6.9908113"
-   y="0px"
-   x="0px"
-   id="Layer_1"
-   version="1.1"><metadata
-     id="metadata5852"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs5850" /><g
-     transform="matrix(0.23656768,0,0,0.74728754,-0.08161586,-0.25781422)"
-     id="silkscreen"><line
-       style="fill:none;stroke:#ffffff;stroke-width:0.75"
-       id="line5825"
-       y2="29.52"
-       x2="0.72000003"
-       y1="0.72000003"
-       x1="0.72000003" /><line
-       style="fill:none;stroke:#ffffff;stroke-width:0.75"
-       id="line5827"
-       y2="29.52"
-       x2="29.521"
-       y1="29.52"
-       x1="0.72000003" /><line
-       style="fill:none;stroke:#ffffff;stroke-width:0.75"
-       id="line5829"
-       y2="0.72000003"
-       x2="29.521"
-       y1="29.52"
-       x1="29.521" /><line
-       style="fill:none;stroke:#ffffff;stroke-width:0.75"
-       id="line5831"
-       y2="0.72000003"
-       x2="11.52"
-       y1="0.72000003"
-       x1="0.72000003" /><line
-       style="fill:none;stroke:#ffffff;stroke-width:0.75"
-       id="line5833"
-       y2="0.72000003"
-       x2="29.521"
-       y1="0.72000003"
-       x1="18.719999" /></g><g
-     transform="translate(-0.41323,-7.9869617)"
-     id="copper0"><circle
-       id="connector1pin"
-       cx="4.3200002"
-       cy="11.52"
-       r="1.584"
-       style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" /><circle
-       id="connector2pin"
-       cx="4.3200002"
-       cy="18.719999"
-       r="1.584"
-       style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" /><circle
-       id="connector3pin"
-       cx="4.3200002"
-       cy="25.92"
-       r="1.584"
-       style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" /></g><g
-     transform="translate(-0.41323,-7.9869617)"
-     id="keepout" /><g
-     transform="translate(-0.41323,-7.9869617)"
-     id="soldermask" /><g
-     transform="translate(-0.41323,-7.9869617)"
-     id="outline" /></svg>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.0776757in' height='0.245359in' viewBox='0 0 5.59265 17.6659' >
+<g partID='855508340'><g transform="matrix(1, 0, 0, 1, -0.330584, -6.38957)">
+ <g  id="copper0">
+  <g  gorn="0.4.0.0.0.0">
+   <circle  r="1.2672" stroke="#ffbf00" id="connector0pin" gorn="0.4.0.0.0.0.0" cx="3.456" cy="9.216" stroke-width="0.9216" fill="none"/>
+   <circle  r="1.2672" stroke="#ffbf00" id="connector2pin" gorn="0.4.0.0.0.0.1" cx="3.456" cy="14.976" stroke-width="0.9216" fill="none"/>
+   <circle  r="1.2672" stroke="#ffbf00" id="connector1pin" gorn="0.4.0.0.0.0.2" cx="3.456" cy="20.736" stroke-width="0.9216" fill="none"/>
+  </g>
+ </g>
+</g>
+</g><g partID='855508342'><g transform="matrix(1, 0, 0, 1, -0.330584, -6.38957)">
+ <g  id="copper1">
+  <g >
+   <g  id="copper0" gorn="0.4.0.0.0.0">
+    <circle  r="1.2672" stroke="#ffbf00" id="connector0pin" gorn="0.4.0.0.0.0.0" cx="3.456" cy="9.216" stroke-width="0.9216" fill="none"/>
+    <circle  r="1.2672" stroke="#ffbf00" id="connector2pin" gorn="0.4.0.0.0.0.1" cx="3.456" cy="14.976" stroke-width="0.9216" fill="none"/>
+    <circle  r="1.2672" stroke="#ffbf00" id="connector1pin" gorn="0.4.0.0.0.0.2" cx="3.456" cy="20.736" stroke-width="0.9216" fill="none"/>
+   </g>
+  </g>
+ </g>
+</g>
+</g><g partID='855508341'><g transform="matrix(0.236568, 0, 0, 0.747288, -0.0652927, -0.206251)">
+ <g  id="silkscreen">
+  <g  gorn="0.3.0.0.0.0">
+   <line  stroke="#ffffff" id="line5825" gorn="0.3.0.0.0.0.0" y1="0.576" y2="23.616" stroke-width="0.6" x1="0.576" x2="0.576" fill="none"/>
+   <line  stroke="#ffffff" id="line5827" gorn="0.3.0.0.0.0.1" y1="23.616" y2="23.616" stroke-width="0.6" x1="0.576" x2="23.6168" fill="none"/>
+   <line  stroke="#ffffff" id="line5829" gorn="0.3.0.0.0.0.2" y1="23.616" y2="0.576" stroke-width="0.6" x1="23.6168" x2="23.6168" fill="none"/>
+   <line  stroke="#ffffff" id="line5831" gorn="0.3.0.0.0.0.3" y1="0.576" y2="0.576" stroke-width="0.6" x1="0.576" x2="9.216" fill="none"/>
+   <line  stroke="#ffffff" id="line5833" gorn="0.3.0.0.0.0.4" y1="0.576" y2="0.576" stroke-width="0.6" x1="14.976" x2="23.6168" fill="none"/>
+  </g>
+ </g>
+</g>
+</g></svg>
