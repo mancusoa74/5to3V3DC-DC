@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
-<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.0776757in' height='0.245359in' viewBox='0 0 5.59265 17.6659' >
-<g partID='855508340'><g transform="matrix(1, 0, 0, 1, -0.330584, -6.38957)">
- <g  id="copper0">
-  <g  gorn="0.4.0.0.0.0">
-   <circle  r="1.2672" stroke="#ffbf00" id="connector0pin" gorn="0.4.0.0.0.0.0" cx="3.456" cy="9.216" stroke-width="0.9216" fill="none"/>
-   <circle  r="1.2672" stroke="#ffbf00" id="connector2pin" gorn="0.4.0.0.0.0.1" cx="3.456" cy="14.976" stroke-width="0.9216" fill="none"/>
-   <circle  r="1.2672" stroke="#ffbf00" id="connector1pin" gorn="0.4.0.0.0.0.2" cx="3.456" cy="20.736" stroke-width="0.9216" fill="none"/>
-  </g>
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.408in' height='0.183in' viewBox='0 0 29.376 13.176' >
+<g partID='855764560'><g xmlns="http://www.w3.org/2000/svg" id="copper0" gorn="0.1.0">
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="IN" id="connector1pad" stroke="#F7BD13" gorn="0.1.0.0" stroke-width="1.24668" cy="7.488" fill="none" cx="7.488"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m4.824,4.824,5.328,0,0,5.328,-5.328,0,0,-5.328zM6.07068,7.488a1.41732,1.41732,0,1,0,2.83465,0,1.41732,1.41732,0,1,0,-2.83465,0z" stroke="none" stroke-width="0" fill="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="OUT" id="connector0pad" stroke="#F7BD13" gorn="0.1.0.2" stroke-width="1.24668" cy="7.488" fill="none" cx="14.688"/>
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="GND" id="connector2pad" stroke="#F7BD13" gorn="0.1.0.3" stroke-width="1.24668" cy="7.488" fill="none" cx="21.888"/>
+</g>
+</g><g partID='855764562'><g xmlns="http://www.w3.org/2000/svg" id="copper1" gorn="0.2.0">
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="IN" id="connector1pad" stroke="#F7BD13" gorn="0.2.0.0" stroke-width="1.24668" cy="7.488" fill="none" cx="7.488"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m4.824,4.824,5.328,0,0,5.328,-5.328,0,0,-5.328zM6.07068,7.488a1.41732,1.41732,0,1,0,2.83465,0,1.41732,1.41732,0,1,0,-2.83465,0z" stroke="none" stroke-width="0" fill="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="OUT" id="connector0pad" stroke="#F7BD13" gorn="0.2.0.2" stroke-width="1.24668" cy="7.488" fill="none" cx="14.688"/>
+ <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="GND" id="connector2pad" stroke="#F7BD13" gorn="0.2.0.3" stroke-width="1.24668" cy="7.488" fill="none" cx="21.888"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0" gorn="0.2.0.4">
+  <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="IN" id="connector1pad" stroke="#F7BD13" gorn="0.2.0.4.0" stroke-width="1.24668" cy="7.488" fill="none" cx="7.488"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="m4.824,4.824,5.328,0,0,5.328,-5.328,0,0,-5.328zM6.07068,7.488a1.41732,1.41732,0,1,0,2.83465,0,1.41732,1.41732,0,1,0,-2.83465,0z" id="connector0pin" stroke="none" gorn="0.2.0.4.1" stroke-width="0" fill="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="OUT" id="connector2pin" stroke="#F7BD13" gorn="0.2.0.4.2" stroke-width="1.24668" cy="7.488" fill="none" cx="14.688"/>
+  <circle xmlns="http://www.w3.org/2000/svg" r="2.04066" connectorname="GND" id="connector1pin" stroke="#F7BD13" gorn="0.2.0.4.3" stroke-width="1.24668" cy="7.488" fill="none" cx="21.888"/>
  </g>
 </g>
-</g><g partID='855508342'><g transform="matrix(1, 0, 0, 1, -0.330584, -6.38957)">
- <g  id="copper1">
-  <g >
-   <g  id="copper0" gorn="0.4.0.0.0.0">
-    <circle  r="1.2672" stroke="#ffbf00" id="connector0pin" gorn="0.4.0.0.0.0.0" cx="3.456" cy="9.216" stroke-width="0.9216" fill="none"/>
-    <circle  r="1.2672" stroke="#ffbf00" id="connector2pin" gorn="0.4.0.0.0.0.1" cx="3.456" cy="14.976" stroke-width="0.9216" fill="none"/>
-    <circle  r="1.2672" stroke="#ffbf00" id="connector1pin" gorn="0.4.0.0.0.0.2" cx="3.456" cy="20.736" stroke-width="0.9216" fill="none"/>
-   </g>
-  </g>
- </g>
-</g>
-</g><g partID='855508341'><g transform="matrix(0.236568, 0, 0, 0.747288, -0.0652927, -0.206251)">
- <g  id="silkscreen">
-  <g  gorn="0.3.0.0.0.0">
-   <line  stroke="#ffffff" id="line5825" gorn="0.3.0.0.0.0.0" y1="0.576" y2="23.616" stroke-width="0.6" x1="0.576" x2="0.576" fill="none"/>
-   <line  stroke="#ffffff" id="line5827" gorn="0.3.0.0.0.0.1" y1="23.616" y2="23.616" stroke-width="0.6" x1="0.576" x2="23.6168" fill="none"/>
-   <line  stroke="#ffffff" id="line5829" gorn="0.3.0.0.0.0.2" y1="23.616" y2="0.576" stroke-width="0.6" x1="23.6168" x2="23.6168" fill="none"/>
-   <line  stroke="#ffffff" id="line5831" gorn="0.3.0.0.0.0.3" y1="0.576" y2="0.576" stroke-width="0.6" x1="0.576" x2="9.216" fill="none"/>
-   <line  stroke="#ffffff" id="line5833" gorn="0.3.0.0.0.0.4" y1="0.576" y2="0.576" stroke-width="0.6" x1="14.976" x2="23.6168" fill="none"/>
-  </g>
- </g>
+</g><g partID='855764561'><g xmlns="http://www.w3.org/2000/svg" id="silkscreen" gorn="0.3.0">
+ <line xmlns="http://www.w3.org/2000/svg" y2="12.888" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="0.288" y1="12.888" stroke-width="0.576" x1="29.088"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="2.088" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="0.288" y1="12.888" stroke-width="0.576" x1="0.288"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="0.288" y1="2.088" stroke-width="0.576" x1="0.288"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="29.088" y1="0.288" stroke-width="0.576" x1="0.288"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="2.088" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="29.088" y1="0.288" stroke-width="0.576" x1="29.088"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="12.888" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="29.088" y1="2.088" stroke-width="0.576" x1="29.088"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="2.088" stroke-linecap="round" stroke="#f0f0f0" class="other" x2="0.288" y1="2.088" stroke-width="0.576" x1="29.088"/>
 </g>
 </g></svg>
